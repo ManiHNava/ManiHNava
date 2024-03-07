@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 Hey... I'm @ManiHNava aka Mava. A turnt-on-learning type of.
-🤝 I have been in love with Science since childhood; same as Music. (Well-Developed Melophile.)
-🌱 Currently, I'm developing my skills in C# & ASP.NET Core MVC.
-💬 I am going to enter th fields like Scientific Computation, Quantu Programming & so far.
+🔭 Hey... I'm @ManiHNava aka Mava. A turnt-on-learning type of.                              
+🤝 I have been in love with Science since childhood; same as Music. (Well-Developed Melophile.)                     
+🌱 Currently, I'm developing my skills in C# & ASP.NET Core MVC.                        
+💬 I am going to enter th fields like Scientific Computation, Quantu Programming & so far.                 
 
 
 ## 🌐 Socials:
