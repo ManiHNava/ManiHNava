@@ -6,7 +6,7 @@
 🔭 Hey... This is @ManiHNava aka Mava. A turnt-on-learning type of.                              
 🤝 Have been in love with Science since childhood; same as Music. (Well-Developed Melophile.)                     
 🌱 Currently, developing my skills in C# & ASP.NET Core MVC.                        
-💬 I am going to jump into fields like Scientific Computation, Quantum Programming & so far.                 
+💬 I am going to jump into fields like Scientific Computation, Quantum Programming.                 
 ⚛️ Chemist, Programmer, Musician.                                                                                     
 ⚡ This boy you checking, is following his childhood dreams. I've promised Mama; I'm going to be a Name on my own... 
 
