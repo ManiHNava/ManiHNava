@@ -3,7 +3,7 @@
 🤝 I have been in love with Science since childhood; same as Music. (Well-Developed Melophile.)                     
 🌱 Currently, I'm developing my skills in C# & ASP.NET Core MVC.                        
 💬 I am going to enter the fields like Scientific Computation, Quantum Programming & so far.                 
-⚛️ Chemist, Programmer, Musician. 
+⚛️ Chemist, Programmer, Musician.                                                                                     
 ⚡ This boy you checking, is following his childhood dreams. I've promised Mama. I'm going to be a Name on my own... 
 
 # 🌐 Socials:
