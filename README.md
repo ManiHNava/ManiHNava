@@ -15,32 +15,32 @@
 
 # 💻 Tech Stack:
 	Languages
-		Bash (Shell Script), PowerShell, Win-Terminal,
-		C#,
-		Python, R, MATLAB
-		JavaScript, TypeScript, HTML5, CSS3
+	    Bash (Shell Script), PowerShell, Win-Terminal,
+	    C#,
+	    Python, R, MATLAB
+	    JavaScript, TypeScript, HTML5, CSS3
 	Hosting
-		Azure, CloudFlare
+	    Azure, CloudFlare
 	Frameworks & Platforms
-		ASP.NET Core MVC, Blazor, Anaconda,
-		Anaconda, Django,
-		Angular, Bootstrap, TailWindCSS
-		Socket.IO, Postman
+	    ASP.NET Core MVC, Blazor, Anaconda,
+	    Anaconda, Django,
+	    Angular, Bootstrap, TailWindCSS
+	    Socket.IO, Postman
 	Databases & Queries
-		SQL, T-SQL,
-		SSMS, Postgre, Oracle, MongoDB, Redis
+	    SQL, T-SQL,
+	    SSMS, Postgre, Oracle, MongoDB, Redis
 	ML/DL
-		ML.NET,
-		Pandas, NumPy, SciPy,
-		Matplotlib, Plotly, Seaborn,
-		SciKit-Learn,
-		PyTorch
+	    ML.NET,
+	    Pandas, NumPy, SciPy,
+	    Matplotlib, Plotly, Seaborn,
+	    SciKit-Learn,
+	    PyTorch
 	DevOps
-		Git, Docker, Kubernetes
+	    Git, Docker, Kubernetes
 	Others
-		RaspberryPi, PowerBI,
-		Notion, Jira, Confluence, Trello,
-		Windows, Ubuntu, ArcLinux
+	    RaspberryPi, PowerBI,
+	    Notion, Trello,
+	    Windows, Ubuntu, ArcLinux
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ManiHNava&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
