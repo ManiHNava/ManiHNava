@@ -10,7 +10,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mani.H.Nava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mani-habibi-nava-259542263)
 
 # 💻 Tech Stack:
-
  Languages
     Bash (Shell Script), PowerShell, Windows Terminal 
     C#
