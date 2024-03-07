@@ -5,6 +5,8 @@
 💬 I am going to enter the fields like Scientific Computation, Quantum Programming & so far.                 
 ⚛️ Chemist, Programmer, Musician.                                                                                     
 ⚡ This boy you checking, is following his childhood dreams. I've promised Mama; I'm going to be a Name on my own... 
+---
+[![](https://visitcount.itsvg.in/api?id=ManiHNava&icon=0&color=4)](https://visitcount.itsvg.in)
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mani.H.Nava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mani-habibi-nava-259542263)
@@ -46,8 +48,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ManiHNava&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ManiHNava&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
