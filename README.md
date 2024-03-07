@@ -15,7 +15,7 @@
 
 # 💻 Tech Stack:
 	Languages
-		Bash (Shell Script), PowerShell, Windows Terminal, 
+		Bash (Shell Script), PowerShell, Win-Terminal, 
 		C#, 
 		Python, R, MATLAB
 		JavaScript, TypeScript, HTML5, CSS3
