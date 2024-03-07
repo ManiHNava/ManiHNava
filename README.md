@@ -15,14 +15,14 @@
 
 # 💻 Tech Stack:
 	Languages
-		Bash (Shell Script), PowerShell, Win-Terminal, 
-		C#, 
+		Bash (Shell Script), PowerShell, Win-Terminal,
+		C#,
 		Python, R, MATLAB
 		JavaScript, TypeScript, HTML5, CSS3
 	Hosting
 		Azure, CloudFlare
 	Frameworks & Platforms
-		ASP.NET Core MVC, Blazor, Anaconda, 
+		ASP.NET Core MVC, Blazor, Anaconda,
 		Anaconda, Django,
 		Angular, Bootstrap, TailWindCSS
 		Socket.IO, Postman
@@ -41,7 +41,6 @@
 		RaspberryPi, PowerBI,
 		Notion, Jira, Confluence, Trello,
 		Windows, Ubuntu, ArcLinux
-		
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ManiHNava&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
