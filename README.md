@@ -8,7 +8,7 @@
 🌱 Currently, developing my skills in C# & ASP.NET Core MVC.                        
 💬 I am going to jump into fields like Scientific Computation, Quantum Programming.                 
 ⚛️ Chemist, Programmer, Musician.                                                                                     
-⚡ This boy you checking, is following his childhood dreams. I've promised Mama; I'm going to be a Name on my own... 
+⚡ This boi you checking, is following his childhood dreams. I've promised Mama; I'm going to be a Name on my own... 
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mani.H.Nava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mani-habibi-nava-259542263)
