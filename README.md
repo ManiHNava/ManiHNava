@@ -10,34 +10,34 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mani.H.Nava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mani-habibi-nava-259542263)
 
 # 💻 Tech Stack:
- Languages
-    Bash (Shell Script), PowerShell, Windows Terminal 
-    C#
-    Python, R, MATLAB    
-    JavaScript, TypeScript, HTML5, CSS3
-  Hosting
-    Azure, CloudFlare
-  Frameworks & Platforms
-    ASP.NET Core MVC, Blazor, Anaconda, 
-    Anaconda, Django
-    Angular, Bootstrap, TailWindCSS
-    Socket.IO, Postman,
-  Databases & Queries
-    SQL, T-SQL
-    SSMS, Postgre, Oracle, MongoDB, Redis
-  ML/DL
-    ML.NET
-    Pandas, NumPy, SciPy
-    Matplotlib, Plotly, Seaborn
-    SciKit-Learn
-    PyTorch
-  DevOps
-    Git, Docker, Kubernetes
-  Others
-    RaspberryPi, PowerBI,
-    Notion, Jira, Confluence, Trello
-    Windows, Ubuntu, ArcLinux
-
+	Languages
+		Bash (Shell Script), PowerShell, Windows Terminal 
+		C#, 
+		Python, R, MATLAB
+		JavaScript, TypeScript, HTML5, CSS3
+	Hosting
+		Azure, CloudFlare
+	Frameworks & Platforms
+		ASP.NET Core MVC, Blazor, Anaconda, 
+		Anaconda, Django
+		Angular, Bootstrap, TailWindCSS
+		Socket.IO, Postman,
+	Databases & Queries
+		SQL, T-SQL
+		SSMS, Postgre, Oracle, MongoDB, Redis
+	ML/DL
+		ML.NET
+		Pandas, NumPy, SciPy
+		Matplotlib, Plotly, Seaborn
+		SciKit-Learn
+		PyTorch
+	DevOps
+		Git, Docker, Kubernetes
+	Others
+		RaspberryPi, PowerBI,
+		Notion, Jira, Confluence, Trello
+		Windows, Ubuntu, ArcLinux
+		
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ManiHNava&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
