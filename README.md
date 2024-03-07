@@ -3,10 +3,10 @@
 
 
 # 💫 About Me:
-🔭 Hey... I'm @ManiHNava aka Mava. A turnt-on-learning type of.                              
-🤝 I have been in love with Science since childhood; same as Music. (Well-Developed Melophile.)                     
-🌱 Currently, I'm developing my skills in C# & ASP.NET Core MVC.                        
-💬 I am going to enter the fields like Scientific Computation, Quantum Programming & so far.                 
+🔭 Hey... This is @ManiHNava aka Mava. A turnt-on-learning type of.                              
+🤝 Have been in love with Science since childhood; same as Music. (Well-Developed Melophile.)                     
+🌱 Currently, developing my skills in C# & ASP.NET Core MVC.                        
+💬 I am going to jump into fields like Scientific Computation, Quantum Programming & so far.                 
 ⚛️ Chemist, Programmer, Musician.                                                                                     
 ⚡ This boy you checking, is following his childhood dreams. I've promised Mama; I'm going to be a Name on my own... 
 
