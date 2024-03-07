@@ -11,7 +11,7 @@
 
 # 💻 Tech Stack:
 	Languages
-		Bash (Shell Script), PowerShell, Windows Terminal 
+		Bash (Shell Script), PowerShell, Windows Terminal, 
 		C#, 
 		Python, R, MATLAB
 		JavaScript, TypeScript, HTML5, CSS3
@@ -19,23 +19,23 @@
 		Azure, CloudFlare
 	Frameworks & Platforms
 		ASP.NET Core MVC, Blazor, Anaconda, 
-		Anaconda, Django
+		Anaconda, Django,
 		Angular, Bootstrap, TailWindCSS
-		Socket.IO, Postman,
+		Socket.IO, Postman
 	Databases & Queries
-		SQL, T-SQL
+		SQL, T-SQL,
 		SSMS, Postgre, Oracle, MongoDB, Redis
 	ML/DL
-		ML.NET
-		Pandas, NumPy, SciPy
-		Matplotlib, Plotly, Seaborn
-		SciKit-Learn
+		ML.NET,
+		Pandas, NumPy, SciPy,
+		Matplotlib, Plotly, Seaborn,
+		SciKit-Learn,
 		PyTorch
 	DevOps
 		Git, Docker, Kubernetes
 	Others
 		RaspberryPi, PowerBI,
-		Notion, Jira, Confluence, Trello
+		Notion, Jira, Confluence, Trello,
 		Windows, Ubuntu, ArcLinux
 		
 
