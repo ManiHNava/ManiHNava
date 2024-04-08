@@ -15,30 +15,25 @@
 
 # 💻 Tech Stack:
 	Languages
-	    Bash (Shell Script), PowerShell, Win-Terminal,
+	    Bash (Shell Script), PowerShell
 	    C#,
 	    Python, R, MATLAB
-	    JavaScript, TypeScript, HTML5, CSS3
-	Hosting
-	    Azure, CloudFlare
+	    HTML5, CSS3
 	Frameworks & Platforms
-	    ASP.NET Core MVC, Blazor, Anaconda,
+	    ASP.NET Core MVC,
 	    Anaconda, Django,
-	    Angular, Bootstrap, TailWindCSS
-	    Socket.IO, Postman
+	    Bootstrap
 	Databases & Queries
 	    SQL, T-SQL,
-	    SSMS, Postgre, Oracle, MongoDB, Redis
+	    SSMS, Postgre
 	ML/DL
-	    ML.NET,
 	    Pandas, NumPy, SciPy,
-	    Matplotlib, Plotly, Seaborn,
+	    Matplotlib, Plotly
 	    SciKit-Learn,
 	    PyTorch
 	DevOps
-	    Git, Docker, Kubernetes
+	    Git, Docker
 	Others
-	    RaspberryPi, PowerBI,
 	    Notion, Trello,
 	    Windows, Ubuntu, ArcLinux
 
