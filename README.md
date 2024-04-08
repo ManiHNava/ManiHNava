@@ -17,7 +17,7 @@
 	Languages
 	    Bash (Shell Script), PowerShell
 	    C#,
-	    Python, R, MATLAB
+	    Python,
 	    HTML5, CSS3
 	Frameworks & Platforms
 	    ASP.NET Core MVC,
