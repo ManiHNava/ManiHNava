@@ -15,14 +15,14 @@
 
 # 💻 Tech Stack:
 	Languages
-	    Bash (Shell Script), PowerShell
+	    Bash (ShellScript), PowerShell
 	    C#,
 	    Python,
 	    HTML5, CSS3
 	Frameworks & Platforms
-	    ASP.NET Core MVC,
-	    Anaconda, Django,
-	    Bootstrap
+	    ASP.NET Core, MVC,
+	    Anaconda,
+	    Bootstrap, TailwindCss
 	Databases & Queries
 	    SQL, T-SQL,
 	    SSMS, Postgre
@@ -35,7 +35,7 @@
 	    Git, Docker
 	Others
 	    Notion, Trello,
-	    Windows, Ubuntu, ArcLinux
+	    Windows, Deb, Arch
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ManiHNava&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
