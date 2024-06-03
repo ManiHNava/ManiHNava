@@ -16,26 +16,21 @@
 # 💻 Tech Stack:
 	Languages
 	    Bash (ShellScript), PowerShell
-	    C#,
-	    Python,
-	    HTML5, CSS3
+	    C#, Python, IronPython
 	Frameworks & Platforms
 	    ASP.NET Core, MVC,
-	    Anaconda,
-	    Bootstrap, TailwindCss
+	    Anaconda, Flask
 	Databases & Queries
 	    SQL, T-SQL,
-	    SSMS, Postgre
+	    SSMS, Postgres
 	ML/DL
 	    Pandas, NumPy, SciPy,
 	    Matplotlib, Plotly
-	    SciKit-Learn,
+	    SciKit-Learn, XGBoost
 	    PyTorch
-	DevOps
-	    Git, Docker
 	Others
-	    Notion, Trello,
-	    Windows, Deb, Arch
+	    Git, Docker
+	    Win, Deb, Arch
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ManiHNava&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
