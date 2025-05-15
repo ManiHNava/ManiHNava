@@ -18,7 +18,7 @@ arch btw 😅
 
 no, ain't active on social media.
 contact me by:
-- ![https://t.me/maninava](Telegram)
+- [Telegram](https://t.me/maninava)
 - manihabibinava@gmail.com
 ```
 
