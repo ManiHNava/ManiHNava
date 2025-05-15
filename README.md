@@ -14,7 +14,12 @@ PyTorch,  Flask,  ASP.NET Core,  Scikit-Learn
 
 
 arch btw 😅
-(no, ain't active on social media)
+
+
+no, ain't active on social media.
+contact me by:
+- [https://t.me/maninava|Telegram]
+- 
 ```
 
 <!---
