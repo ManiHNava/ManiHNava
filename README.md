@@ -6,8 +6,9 @@ sorcerrer, bald, melancholic...
 fell in love with dark nights & sleepless hours...
 searching for knowledge, wisdom, science, mythology & creativity
 
-C#, Python, Bash, VimScript, Lua, SQL
-PyTorch, Flask, ASP.NET Core, Scikit-Learn
+C#,   Python,   Bash,   VimScript,   Lua,   SQL
+
+PyTorch,   Flask,   ASP.NET Core,   Scikit-Learn
 
 arch btw 😅
 
