@@ -1,7 +1,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ManiHNava&icon=0&color=4)](https://visitcount.itsvg.in)
-
+```
 sorcerrer, bald, melancholic...
 
 fell in love with dark nights & sleepless hours...
@@ -15,7 +15,7 @@ PyTorch,   Flask,   ASP.NET Core,   Scikit-Learn
 
 
 arch btw 😅
-
+```
 
 <!---
 # 📊 GitHub Stats:
