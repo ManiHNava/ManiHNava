@@ -3,14 +3,19 @@
 [![](https://visitcount.itsvg.in/api?id=ManiHNava&icon=0&color=4)](https://visitcount.itsvg.in)
 
 sorcerrer, bald, melancholic...
+
 fell in love with dark nights & sleepless hours...
+
 searching for knowledge, wisdom, science, mythology & creativity
+
 
 C#,   Python,   Bash,   VimScript,   Lua,   SQL
 
 PyTorch,   Flask,   ASP.NET Core,   Scikit-Learn
 
+
 arch btw 😅
+
 
 <!---
 # 📊 GitHub Stats:
