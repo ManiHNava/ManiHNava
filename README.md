@@ -1,6 +1,7 @@
-
----
 [![](https://visitcount.itsvg.in/api?id=ManiHNava&icon=0&color=4)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-bridge&label=Visited+by)
+
 ```
 sorcerrer, bald, melancholic...
 
