@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-bridge&label=Visited+by)
 
-```
+<p>
 sorcerrer, bald, melancholic...
 
 fell in love with sleepless nights & endless thoughts...
@@ -20,7 +20,7 @@ no, ain't active on social media.
 contact me by:
 - [Telegram](https://t.me/maninava)
 - manihabibinava@gmail.com
-```
+</p>
 
 <!---
 # 📊 GitHub Stats:
