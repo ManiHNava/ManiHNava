@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=ManiHNava&icon=0&color=4)](https://visitcount.itsvg.in)
-
 ![](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-bridge&label=Visited+by)
 
 ```
@@ -10,12 +8,13 @@ fell in love with dark nights & sleepless hours...
 searching for knowledge, wisdom, science, mythology & creativity
 
 
-C#,   Python,   Bash,   VimScript,   Lua,   SQL
+C#,  Python,  Bash,  VimScript,  Lua,  SQL
 
-PyTorch,   Flask,   ASP.NET Core,   Scikit-Learn
+PyTorch,  Flask,  ASP.NET Core,  Scikit-Learn
 
 
 arch btw 😅
+(no, ain't active on social media)
 ```
 
 <!---
