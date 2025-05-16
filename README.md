@@ -2,9 +2,7 @@
 sorcerrer, bald, melancholic...
 
 fell in love with sleepless nights & endless thoughts...
-
-searching for knowledge, wisdom, science, mythology & creativity
-
+searching for knowledge, wisdom, science, mythology & creativity.
 
 C#,  Python,  Bash,  VimScript,  Lua,  SQL;
 PyTorch,  Flask,  ASP.NET Core,  Scikit-Learn
