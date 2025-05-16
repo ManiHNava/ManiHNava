@@ -6,15 +6,9 @@ fell in love with sleepless nights & endless thoughts...
 searching for knowledge, wisdom, science, mythology & creativity
 
 
-C#,  Python,  Bash,  VimScript,  Lua,  SQL
-
+C#,  Python,  Bash,  VimScript,  Lua,  SQL;
 PyTorch,  Flask,  ASP.NET Core,  Scikit-Learn
 
-
-arch btw 😅
-
-
-no, ain't active on social media.
 contact me by:
 - [Telegram](https://t.me/maninava)
 - manihabibinava@gmail.com
