@@ -1,10 +1,10 @@
 <p>
 sorcerrer, bald, melancholic...
 
-fell in love with sleepless nights & endless thoughts...
+fell in love with sleepless nights & endless thoughts...<br/>
 searching for knowledge, wisdom, science, mythology & creativity.
 
-C#,  Python,  Bash,  VimScript,  Lua,  SQL;
+C#,  Python,  Bash,  VimScript,  Lua,  SQL;<br/>
 PyTorch,  Flask,  ASP.NET Core,  Scikit-Learn
 
 contact me by:
