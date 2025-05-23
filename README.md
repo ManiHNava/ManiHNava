@@ -3,7 +3,7 @@ wizard, bald, melancholic...<br/>
 born to sorcerize, forced to code...
 
 fell in love with sleepless nights & endless thoughts...<br/>
-searching for knowledge, wisdom, science, mythology & creativity.<br/>
+searching for knowledge, wisdom, science, mythology & creativity.<br/><br/>
 NeoVimmer, btw...<br/>
 using Arch, btw...<br/>
 fighting god-complex, btw...<br/>
