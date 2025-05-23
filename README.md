@@ -1,5 +1,5 @@
 <p>
-wizard, bald, melancholic...
+wizard, bald, melancholic...<br/>
 born to sorcerize, forced to code...
 
 fell in love with sleepless nights & endless thoughts...<br/>
