@@ -3,24 +3,18 @@ sorcerrer, bald, melancholic...
 
 fell in love with sleepless nights & endless thoughts...<br/>
 searching for knowledge, wisdom, science, mythology & creativity.
+NeoVimmer, btw...
+using Arch, btw...
+fighting god-complex, btw...
+INTJ-8w9-MelChol, btw...
 
-C#,  Python,  Bash,  VimScript,  Lua,  SQL;<br/>
-PyTorch,  Flask,  ASP.NET Core,  Scikit-Learn
 
-contact me by:
+C#,<t>Python,<t>Bash,<t>VimScript,<t>Lua,<t>SQL;<br/>
+PyTorch,<t>Flask,<t>Scikit-Learn,<t>ASP.NET Core;<br/>
+
+reach me out:
 - [Telegram](https://t.me/maninava)
 - manihabibinava@gmail.com
 </p>
 
 ![](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-bridge&label=Visited+by)
-
-
-<!---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ManiHNava&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManiHNava&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManiHNava&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ManiHNava&theme=radical&no-frame=false&no-bg=true&margin-w=4)
--->
