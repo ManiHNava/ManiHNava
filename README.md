@@ -1,4 +1,4 @@
-
+<p>
 sorcerrer, bald, melancholic...
 
 fell in love with sleepless nights & endless thoughts...<br/>
@@ -15,6 +15,6 @@ PyTorch,  Flask,  Scikit-Learn,  ASP.NET Core;<br/>
 reach me out:
 - [Telegram](https://t.me/maninava)
 - manihabibinava@gmail.com
-
+</p>
 
 ![](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-bridge&label=Visited+by)
