@@ -9,7 +9,7 @@ fighting god-complex, btw...
 INTJ-8w9-MelChol, btw...
 
 
-C#,  Python,  Bash,  VimScript,  Lua,  SQL;<br/>
+C#,\t Python,  Bash,  VimScript,  Lua,  SQL;<br/>
 PyTorch,  Flask,  Scikit-Learn,  ASP.NET Core;<br/>
 
 reach me out:
