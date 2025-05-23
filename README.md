@@ -9,8 +9,8 @@ fighting god-complex, btw...
 INTJ-8w9-MelChol, btw...
 
 
-C#,<t\>Python,<t>Bash,<t>VimScript,<t>Lua,<t>SQL;<br/>
-PyTorch,<t>Flask,<t>Scikit-Learn,<t>ASP.NET Core;<br/>
+C#,  Python,  Bash,  VimScript,  Lua,  SQL;<br/>
+PyTorch,  Flask,  Scikit-Learn,  ASP.NET Core;<br/>
 
 reach me out:
 - [Telegram](https://t.me/maninava)
