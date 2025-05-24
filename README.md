@@ -19,4 +19,8 @@ reach me out:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavantgarderc&layout=compact&show_icons=true&theme=dracula)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavantgarderc&layout=compact&show_icons=true&theme=dracula" />
+</a>
+
 ![](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-bridge&label=Visited+by)
