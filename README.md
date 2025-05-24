@@ -17,4 +17,6 @@ reach me out:
 - manihabibinava@gmail.com
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavantgarderc)](https://github.com/mavantgarderc/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-bridge&label=Visited+by)
